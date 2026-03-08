@@ -1,4 +1,4 @@
-
+https://gitee.com/lianggangwei/lianggangwei.git
 # 上传项目到 GitHub 指南
 
 ## 前置条件
