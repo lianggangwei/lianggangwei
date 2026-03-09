@@ -9,5 +9,16 @@
       "assistant_response": "这是测试响应",
       "test": true
     }
+  },
+  {
+    "id": "conv_2026-03-09T22-03-48-742876",
+    "document": "User: 测试对话\nAssistant: 这是测试响应",
+    "metadata": {
+      "timestamp": "2026-03-09T22:03:48.742876",
+      "session_id": "20260309_220348",
+      "user_input": "测试对话",
+      "assistant_response": "这是测试响应",
+      "test": true
+    }
   }
 ]
