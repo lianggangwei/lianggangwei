@@ -1,0 +1,12 @@
+[
+  {
+    "id": "habit_每天检查项目",
+    "document": "每天检查项目: 定期检查项目状态",
+    "metadata": {
+      "name": "每天检查项目",
+      "description": "定期检查项目状态",
+      "frequency": 1,
+      "last_updated": "2026-03-09T21:51:16.848664"
+    }
+  }
+]

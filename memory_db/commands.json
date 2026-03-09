@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cmd_python_qwen_demo.py",
+    "document": "python qwen_demo.py: 启动Qwen对话",
+    "metadata": {
+      "command": "python qwen_demo.py",
+      "description": "启动Qwen对话",
+      "usage_count": 1,
+      "last_used": "2026-03-09T21:51:16.849685"
+    }
+  }
+]

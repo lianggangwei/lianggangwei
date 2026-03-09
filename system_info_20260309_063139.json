@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-03-09T06:31:39.962896",
+  "cpu": {
+    "MaxClockSpeed": "3701",
+    "Name": "AMD Ryzen 5 5600X 6-Core Processor",
+    "NumberOfCores": "6",
+    "NumberOfLogicalProcessors": "12"
+  },
+  "gpu": [
+    {
+      "AdapterRAM": "4293918720"
+    },
+    {
+      "DriverVersion": "32.0.15.6094"
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060 6GB"
+    }
+  ],
+  "memory": {
+    "modules": [
+      {
+        "Capacity": "8589934592"
+      },
+      {
+        "Manufacturer": "A-DATA"
+      },
+      {
+        "PartNumber": "DDR4 3000 2OZ"
+      },
+      {
+        "Speed": "2666"
+      },
+      {
+        "Capacity": "8589934592"
+      },
+      {
+        "Manufacturer": "A-DATA"
+      },
+      {
+        "PartNumber": "16ATF1G64HZ-2G3A1"
+      },
+      {
+        "Speed": "2666"
+      }
+    ],
+    "total": {
+      "TotalVisibleMemorySize": "16663632"
+    }
+  },
+  "disk": {
+    "physical": [
+      {
+        "InterfaceType": "IDE"
+      },
+      {
+        "Model": "WDC WD5000AAKX-083CA1"
+      },
+      {
+        "Size": "500105249280"
+      },
+      {
+        "InterfaceType": "IDE"
+      },
+      {
+        "Model": "WDC WD5003ABYZ-011FA0"
+      },
+      {
+        "Size": "500105249280"
+      },
+      {
+        "InterfaceType": "SCSI"
+      },
+      {
+        "Model": "YMTC PC411-1TB-B"
+      },
+      {
+        "Size": "1024203640320"
+      }
+    ],
+    "logical": [
+      {
+        "DeviceID": "C:"
+      },
+      {
+        "FileSystem": "NTFS"
+      },
+      {
+        "FreeSpace": "881951662080"
+      },
+      {
+        "Size": "1023874691072"
+      },
+      {
+        "VolumeName": "系统"
+      },
+      {
+        "DeviceID": "G:"
+      },
+      {
+        "FileSystem": "NTFS"
+      },
+      {
+        "FreeSpace": "287078395904"
+      },
+      {
+        "Size": "428338630656"
+      },
+      {
+        "VolumeName": "Win7"
+      },
+      {
+        "DeviceID": "H:"
+      },
+      {
+        "FileSystem": "NTFS"
+      },
+      {
+        "FreeSpace": "59519762432"
+      },
+      {
+        "Size": "71765532672"
+      },
+      {
+        "VolumeName": ""
+      },
+      {
+        "DeviceID": "I:"
+      },
+      {
+        "FileSystem": "NTFS"
+      },
+      {
+        "FreeSpace": "320651485184"
+      },
+      {
+        "Size": "499971518464"
+      },
+      {
+        "VolumeName": "新加卷"
+      }
+    ]
+  },
+  "motherboard": {
+    "Manufacturer": "ASUSTeK COMPUTER INC.",
+    "Product": "TUF GAMING B550M-PLUS",
+    "SerialNumber": "250861365900553",
+    "Version": "Rev X.0x"
+  },
+  "system": {
+    "os": "Windows",
+    "release": "10",
+    "node": "SK-20260118VZTN",
+    "processor": "AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD"
+  }
+}

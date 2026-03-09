@@ -1,0 +1,13 @@
+[
+  {
+    "id": "conv_2026-03-09T21-51-16-847771",
+    "document": "User: 测试对话\nAssistant: 这是测试响应",
+    "metadata": {
+      "timestamp": "2026-03-09T21:51:16.847771",
+      "session_id": "20260309_215116",
+      "user_input": "测试对话",
+      "assistant_response": "这是测试响应",
+      "test": true
+    }
+  }
+]

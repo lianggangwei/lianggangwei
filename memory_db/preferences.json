@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pref_communication_language",
+    "document": "language: 中文",
+    "metadata": {
+      "key": "language",
+      "value": "中文",
+      "category": "communication",
+      "updated_at": "2026-03-09T21:51:16.848316"
+    }
+  }
+]
